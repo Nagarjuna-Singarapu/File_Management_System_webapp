@@ -33,12 +33,12 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ``sh
-   git clone https://github.com/your-username/webapp.git
+   git clone https://github.com/Nagarjuna-Singarapu/File_Management_System_webapp.git
 
 
 2. Navigate into the project directory:
 ``sh
-    cd webapp/
+    cd File_Management_System_webapp/
     ``
 3. Set Up the Backend (Django)
     --Ensure you have Python installed (preferably 3.8 or later).

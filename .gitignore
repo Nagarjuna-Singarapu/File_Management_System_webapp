@@ -1,0 +1,10 @@
+# Add your ignores 
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+*.log
+
+# Virtual environments
+venv/
+env/
